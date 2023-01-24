@@ -9,6 +9,8 @@ public class Main {
 
 		int notas[][] = new int[4][5];
 		int media = 0;
+		int notmax = 0;
+		int notmin = 10;
 
 		Scanner sca = new Scanner(System.in);
 
